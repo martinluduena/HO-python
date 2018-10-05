@@ -12,7 +12,7 @@ Utilizando solo python resolver los siguientes problemas sin usar numpy. El arch
 
 A partir de aquí tenga en cuenta que puede utilizar python con todas las librerías disponibles de scipy, numpy, matplotlib, visite las páginas de referencia e intente resolver los problemas como armaría un script para su trabajo diario. Tiene disponibles como referencia los ejemplos vistos en la parte teórica.
 
-  1. Dado el siguiente set de datos, obtenga un gráfico tipo scatter plot para X en función de Y.
+  4. Dado el siguiente set de datos, obtenga un gráfico tipo scatter plot para X en función de Y.
 
         | X   |  Y  |
         |-----|-----|
@@ -27,15 +27,15 @@ A partir de aquí tenga en cuenta que puede utilizar python con todas las librer
         |9,15 |24,68|
         |5,06 |21,89|
 
-  2. Intente realizar un ajuste lineal o de algún polinomio utilizando este set de datos.
+  5. Intente realizar un ajuste lineal o de algún polinomio utilizando este set de datos.
 	
-  3. Intente colocar label para los ejes y los datos
+  6. Intente colocar label para los ejes y los datos
 
 
 
 Graficar el siguiente polinomio, su derivada y puntos extremos:  f(x)=x³+x²-4x+4
 
-  1. Colocar titulo a los ejes y agregarle  una grilla en ambos. Definir el rango de la función entre -10 y 10.
-  2. Colocar titulo y colores distintos para la función y la derivada.
-  3. Guardar los resultados de evaluar la función en el rango del punto a cada 0.1 unidades en un archivo de texto.
+  7. Colocar titulo a los ejes y agregarle  una grilla en ambos. Definir el rango de la función entre -10 y 10.
+  8. Colocar titulo y colores distintos para la función y la derivada.
+  9. Guardar los resultados de evaluar la función en el rango del punto a cada 0.1 unidades en un archivo de texto.
 
